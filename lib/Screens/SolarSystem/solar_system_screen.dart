@@ -29,7 +29,7 @@ class SolarSystemScreen extends StatelessWidget {
               child: CarouselSlider(
             options: CarouselOptions(
               height: 550,
-              viewportFraction: 0.6,
+              viewportFraction: 0.65,
               enableInfiniteScroll: true,
               autoPlay: false,
               autoPlayCurve: Curves.fastOutSlowIn,
