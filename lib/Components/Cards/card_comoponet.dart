@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:simple_shadow/simple_shadow.dart';
-import 'package:solar_system_app/Model/PlanetsModel.dart';
+import 'package:solar_system_app/Models/PlanetsModel.dart';
 import 'package:solar_system_app/Screens/Planet/planet_screen.dart';
 import 'package:solar_system_app/constants.dart';
 

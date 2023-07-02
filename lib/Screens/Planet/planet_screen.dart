@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:solar_system_app/Components/Text/general_characteristics.dart';
 import 'package:solar_system_app/Components/Text/title_component.dart';
-import 'package:solar_system_app/Model/PlanetsModel.dart';
+import 'package:solar_system_app/Models/PlanetsModel.dart';
 import 'package:solar_system_app/constants.dart';
 
 class PlanetScreen extends StatelessWidget {
