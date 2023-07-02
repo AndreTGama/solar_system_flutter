@@ -34,6 +34,12 @@ flutter pub run flutter_launcher_icons:main
 
 ## Step Three
 
-In the terminal, run the command **__flutter run -d {device you want}__**, To be able to see the App running
+In the terminal, run the command __**flutter devices**__ to see the devices that are active and **__flutter run -d {device you want}__**, To be able to see the App running
+
+```
+flutter devices
+
+flutter run -d {device you want}
+```
 
 ## Images
