@@ -60,7 +60,7 @@ class CardComoponet extends StatelessWidget {
           ),
         ),
         Positioned(
-          top: 15,
+          top: 0,
           child: Hero(
             tag: planet.id,
             child: SimpleShadow(

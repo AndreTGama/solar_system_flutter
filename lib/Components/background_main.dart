@@ -28,7 +28,7 @@ class BackgroundMain extends StatelessWidget {
                 margin: const EdgeInsets.only(top: 50.0),
                 padding: const EdgeInsets.all(20.0),
                 child: const Text(
-                  'Espaço Explorar',
+                  'Sistema Solar',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 32,

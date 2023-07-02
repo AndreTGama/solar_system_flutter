@@ -37,7 +37,7 @@ class ButtonRounded extends StatelessWidget {
               ),
             ],
           ),
-          width: size.width * 0.4,
+          width: size.width * 0.5,
           margin: const EdgeInsets.symmetric(vertical: 10),
           child: ClipRRect(
             borderRadius: BorderRadius.circular(29),
