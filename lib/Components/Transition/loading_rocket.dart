@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:solar_system_app/constants.dart';
 
+// ignore: must_be_immutable
 class LoadingRocket extends StatefulWidget {
   bool active = false;
 
