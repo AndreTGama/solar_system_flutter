@@ -45,9 +45,7 @@ flutter run -d {device you want}
 ## Images
 
 <div style="display:flex">
-    ![alt text](https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-1.png)
-
-    ![alt text](https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-2.png)
-
-    ![alt text](https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-3.png)
+    <img src="https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-1.png" alt="image project"/>
+    <img src="https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-2.png" alt="image project"/>
+    <img src="https://raw.githubusercontent.com/AndreTGama/solar_system_flutter/main/assets/images/img-app/page-3.png" alt="image project"/>
 </div>
